@@ -1,2 +1,2 @@
 # sea
-great
+great for world
